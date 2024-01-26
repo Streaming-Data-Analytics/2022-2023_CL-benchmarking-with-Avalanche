@@ -1,6 +1,8 @@
 # CL benchmarking with Avalanche
 
-The project will involve using the Python library Avalanche [1, 2], presented in the Continual Learning course [3]. The aim is to compare different Continual Learning strategies on two standard benchmarks in an Incremental Task Learning scenario.
+Optional project of the [Streaming Data Analytics]([https://link-url-here.org](http://emanueledellavalle.org/teaching/streaming-data-analytics-2022-23/)) course provided by [Politecnico di Milano](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=811164&polij_device_category=DESKTOP&__pj0=0&__pj1=1b82965d3c68857e2087d3f3b98a9e40).
+
+The project will use the Python library Avalanche [1, 2], presented in the Continual Learning course [3]. The aim is to compare different Continual Learning strategies on two standard benchmarks in an Incremental Task Learning scenario.
 
 The following strategies will be of interest:
 - Baseline strategies: Naive Strategy [4] and Joint Training [5]. 
@@ -22,7 +24,7 @@ Experiments must be run separately in an Incremental Task Learning scenario on t
 - SplitCIFAR10 [12]. 
 - SplitMNIST [13].
 
-For each benchmark, you are required to create a single ipynb file. ou must include comments for the principal instructions, and you are allowed to import external py modules. Additionally, ensure you thoroughly comment on the comparison results using various plots associated with the different metrics. Finally, again within each ipynb file, briefly discuss the conclusions that can be drawn from the experiment.
+For each benchmark, you are required to create a single ipynb file. You must include comments for the principal instructions, and you are allowed to import external py modules. Additionally, ensure you thoroughly comment on the comparison results using various plots associated with the different metrics. Finally, again, within each ipynb file, briefly discuss the conclusions that can be drawn from the experiment.
 
 ### References
 [1] https://avalanche.continualai.org/
