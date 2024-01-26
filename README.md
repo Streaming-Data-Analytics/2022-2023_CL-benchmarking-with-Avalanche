@@ -1,6 +1,6 @@
 # CL benchmarking with Avalanche
 
-Optional project of the [Streaming Data Analytics]([https://link-url-here.org](http://emanueledellavalle.org/teaching/streaming-data-analytics-2022-23/)) course provided by [Politecnico di Milano](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=811164&polij_device_category=DESKTOP&__pj0=0&__pj1=1b82965d3c68857e2087d3f3b98a9e40).
+Optional project of the [Streaming Data Analytics]([https://link-url-here.org](http://emanueledellavalle.org/teaching/streaming-data-analytics-2022-23/) course provided by [Politecnico di Milano](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=811164&polij_device_category=DESKTOP&__pj0=0&__pj1=1b82965d3c68857e2087d3f3b98a9e40).
 
 The project will use the Python library Avalanche [1, 2], presented in the Continual Learning course [3]. The aim is to compare different Continual Learning strategies on two standard benchmarks in an Incremental Task Learning scenario.
 
